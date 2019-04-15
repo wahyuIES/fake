@@ -22,12 +22,12 @@ toilet -f future "welcome" | lolcat
 toilet -f slant "to IES tools" | lolcat
 figlet "$nama" | lolcat
 fi
-echo $red"```````````````````````````````````````````````"
-echo $red" ™Author    {÷} MR.W4HYU"
-echo $White" ™team   {÷} INDONESIAN ERROR SYSTEM"    
-echo $White" ™GITHUB {÷} https://github.com/wahyuIES"  
-echo $red" ™contac   {÷} wahyu.st021@gmail.com"  
-echo $White"`````````````````````````````````````````````"
+echo $"```````````````````````````````````````````````"
+echo $" ™Author    {÷} MR.W4HYU"
+echo $" ™team   {÷} INDONESIAN ERROR SYSTEM"    
+echo $" ™GITHUB {÷} https://github.com/wahyuIES"  
+echo $" ™contac   {÷} wahyu.st021@gmail.com"  
+echo $"`````````````````````````````````````````````"
 echo
 echo $red" butuh bantuan"
 echo $White" wahyu.st021@gmail.com"
