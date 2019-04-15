@@ -23,10 +23,10 @@ toilet -f slant "to IES tools" | lolcat
 figlet "$nama" | lolcat
 fi
 echo $red"```````````````````````````````````````````````"
-echo $red"™ Autho    {÷} MR.W4HYU                       `"
-echo $White"™ team   {÷} INDONESIAN ERROR SYSTEM        `"    
-echo $White"™ GITHUB {÷} https://github.com/wahyuIES    `"  
-echo $red"™ contac   {÷} wahyu.st021@gmail.com          `"  
+echo $red" ™Author    {÷} MR.W4HYU"
+echo $White" ™team   {÷} INDONESIAN ERROR SYSTEM"    
+echo $White" ™GITHUB {÷} https://github.com/wahyuIES"  
+echo $red" ™contac   {÷} wahyu.st021@gmail.com"  
 echo $White"`````````````````````````````````````````````"
 echo
 echo $red" butuh bantuan"
