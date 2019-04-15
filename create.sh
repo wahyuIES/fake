@@ -21,12 +21,12 @@ clear
 toilet -f slant "C O D E R" | lolcat
 sleep 2
 clear
-echo -e $green"````````````````````````````````````"
-echo -e $red"{÷}Author : MR.W4HYU"
-echo -e $white"{÷}Team   :INDONESIAN ERROR SYSTEM"
-echo -e $red"{÷}contac: wahyu.st021@gmail.com"
-echo -e $green"{÷}github: github.com/wahyuIES"
-echo -e $White"``````````````````````````````````"
+echo -e $green"*************************************"
+echo -e $red"  {÷}Author  : MR.W4HYU"
+echo -e $white"{÷}Team    : INDONESIAN ERROR SYSTEM"
+echo -e $red"  {÷}contac  : wahyu.st021@gmail.com"
+echo -e $green"{÷}github  : github.com/wahyuIES"
+echo -e $White"**************************************"
 echo -e $green"[+] Silahkan masukkan nama domainnya bebas"
 read -p "====> http://" domain
 echo -e $yellow"[+] masukkan Dellay/Jedanya (1-5)"
