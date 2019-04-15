@@ -4,7 +4,7 @@ red="\033[33;1m"
 
 White="\033[34;1m"
 
-ref="\033[35;1m"
+red="\033[35;1m"
 
 green="\033[36;1m"
 
@@ -22,12 +22,12 @@ toilet -f future "welcome" | lolcat
 toilet -f slant "to IES tools" | lolcat
 figlet "$nama" | lolcat
 fi
-echo $"```````````````````````````````````````````````"
-echo $" ™Author    {÷} MR.W4HYU"
-echo $" ™team   {÷} INDONESIAN ERROR SYSTEM"    
-echo $" ™GITHUB {÷} https://github.com/wahyuIES"  
-echo $" ™contac   {÷} wahyu.st021@gmail.com"  
-echo $"`````````````````````````````````````````````"
+echo $green"```````````````````````````````````````````````"
+echo $red" ™Author    {÷} MR.W4HYU"
+echo $white" ™team   {÷} INDONESIAN ERROR SYSTEM"    
+echo $red" ™GITHUB {÷} https://github.com/wahyuIES"  
+echo $green" ™contac   {÷} wahyu.st021@gmail.com"  
+echo $white"`````````````````````````````````````````````"
 echo
 echo $red" butuh bantuan"
 echo $White" wahyu.st021@gmail.com"
