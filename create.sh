@@ -18,10 +18,10 @@ toilet -f slant "C O D E R" | lolcat
 sleep 2
 clear
 echo -e $red"````````````````````````````````````"
-echo -e $red"{÷}Author : MR.W4HYU               `"
-echo -e $red"{÷}Team   :INDONESIAN ERROR SYSTEM `"
-echo -e $White"{÷}contac: wahyu.st021@gmail.com `"
-echo -e $White"{÷}github: github.com/wahyuIES   `"
+echo -e $red"{÷}Author : MR.W4HYU"
+echo -e $red"{÷}Team   :INDONESIAN ERROR SYSTEM"
+echo -e $White"{÷}contac: wahyu.st021@gmail.com"
+echo -e $White"{÷}github: github.com/wahyuIES"
 echo -e $White"``````````````````````````````````"
 echo -e $green"[+] Silahkan masukkan nama domainnya bebas"
 read -p "====> http://" domain
