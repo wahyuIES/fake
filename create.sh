@@ -1,11 +1,15 @@
 #!/bin/bash
-red="\033[32;1m"
+green="\033[32;1m"
+
 red="\033[33;1m"
-red="\033[34;1m"
-White="\033[35;1m"
-White="\033[36;1m"
+
+White="\033[34;1m"
+
+red="\033[35;1m"
+
+green="\033[36;1m"
+
 white="\033[37;1m"
-green="\033[31;1m"
 clear
 echo
 toilet -f slant "Install selesai" | lolcat
@@ -17,11 +21,11 @@ clear
 toilet -f slant "C O D E R" | lolcat
 sleep 2
 clear
-echo -e $red"````````````````````````````````````"
+echo -e $green"````````````````````````````````````"
 echo -e $red"{÷}Author : MR.W4HYU"
-echo -e $red"{÷}Team   :INDONESIAN ERROR SYSTEM"
-echo -e $White"{÷}contac: wahyu.st021@gmail.com"
-echo -e $White"{÷}github: github.com/wahyuIES"
+echo -e $white"{÷}Team   :INDONESIAN ERROR SYSTEM"
+echo -e $red"{÷}contac: wahyu.st021@gmail.com"
+echo -e $green"{÷}github: github.com/wahyuIES"
 echo -e $White"``````````````````````````````````"
 echo -e $green"[+] Silahkan masukkan nama domainnya bebas"
 read -p "====> http://" domain
@@ -29,7 +33,7 @@ echo -e $yellow"[+] masukkan Dellay/Jedanya (1-5)"
 read -p "====> Jeda:" delay
 echo -e $green"[+] Masukkan jumlah link mirrornya"
 read -p "====> (1-10000):" jumlah
-echo -e $cyan"[+] silahkan masukkan nama file yang akan di buat contoh (link.txt)"
+echo -e $yellow"[+] silahkan masukkan nama file yang akan di buat contoh (link.txt)"
 read -p "====> namafilenya (.txt) :" output
 sleep 3
 echo -e $green" [+]tunggu sebentar "
