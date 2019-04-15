@@ -22,6 +22,7 @@ toilet -f future "welcome" | lolcat
 toilet -f slant "to IES tools" | lolcat
 figlet "$nama" | lolcat
 fi
+echo
 echo $green"```````````````````````````````````````````````"
 echo $red" ™Author    {÷} MR.W4HYU"
 echo $white" ™team   {÷} INDONESIAN ERROR SYSTEM"    
