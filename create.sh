@@ -44,7 +44,7 @@ while [ $count -le $jumlah ]
 
 do
 
-printf "http://$RANDOM.$domain.fakker.ngapayah.win\n" >> $output
+printf "http://$RANDOM.$domain.ies.stt.web.id\n" >> $output
 
 echo "[$count] Sedang membuat data ke $output"
 (( count++ ))
